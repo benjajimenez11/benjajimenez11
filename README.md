@@ -1,16 +1,18 @@
-## Hi there 👋
+# ¡Hola! Soy Benjamin Jimenez 👋
 
-<!--
-**benjajimenez11/benjajimenez11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de **Ingeniería en Sistemas de Información** en la **Universidad Nacional del Sur (UNS)**. 
 
-Here are some ideas to get you started:
+Me apasiona resolver problemas complejos mediante el código y actualmente mantengo un **promedio académico de 9,23**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mí
+- 🎓 Actualmente cursando el tercer año de la carrera (38,24% completado).
+- 💻 Enfocado en el desarrollo Backend y la arquitectura de software.
+- 🏆 Logros destacados: Promocioné materias clave como **Programación Orientada a Objetos**, **Estructuras de Datos** y **Teoría de la Computabilidad** con nota **10**.
+
+### 🛠️ Tecnologías y Herramientas
+- **Lenguajes:** Java, C, JavaScript.
+- **Teoría & Ingeniería:** Algoritmos, Estructuras de Datos, Modelos de Software.
+- **Idiomas:** Inglés (Examen Integral ISS aprobado en la UNS).
+
+---
+📫 **Contacto:** benja.j1103@gmail.com
